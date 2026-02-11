@@ -31,5 +31,19 @@
         <category>Cadis</category>
         <category>Normalitat acadèmica</category>
     </item>
+
+        <!-- NOTÍCIA 3: NOVA -->
+    <item>
+        <title>El Govern andalús destina 5 milions d'euros a la reparació de centres educatius danyats pel temporal</title>
+        <description>La Conselleria d'Educació ha aprovat un paquet d'ajudes urgents per a la rehabilitació de 23 centres educatius a les províncies de Cadis, Granada i Sevilla. Les actuacions inclouen reparació de cobertes, assecament d'aules i substitució de material escolar malmès.</description>
+        <link>https://www.juntadeandalucia.es/educacion/ajudes-temporal-2026</link>
+        <guid isPermaLink="true">https://www.juntadeandalucia.es/educacion/ajudes-temporal-2026</guid>
+        <pubDate>Tue, 10 Feb 2026 11:30:00 GMT</pubDate>
+        <category>Andalusia</category>
+        <category>Ajudes econòmiques</category>
+        <category>Infraestructures</category>
+        <author>Conselleria d'Educació</author>
+    </item>
+</channel>
 </channel>
 </rss>
