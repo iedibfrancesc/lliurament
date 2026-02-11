@@ -32,18 +32,20 @@
         <category>Normalitat acadèmica</category>
     </item>
 
-        <!-- NOTÍCIA 3: NOVA -->
+    <!-- NOTÍCIA 3: NOVA - El País - Abandó educatiu -->
     <item>
-        <title>El Govern andalús destina 5 milions d'euros a la reparació de centres educatius danyats pel temporal</title>
-        <description>La Conselleria d'Educació ha aprovat un paquet d'ajudes urgents per a la rehabilitació de 23 centres educatius a les províncies de Cadis, Granada i Sevilla. Les actuacions inclouen reparació de cobertes, assecament d'aules i substitució de material escolar malmès.</description>
-        <link>https://www.juntadeandalucia.es/educacion/ajudes-temporal-2026</link>
-        <guid isPermaLink="true">https://www.juntadeandalucia.es/educacion/ajudes-temporal-2026</guid>
-        <pubDate>Tue, 10 Feb 2026 11:30:00 GMT</pubDate>
-        <category>Andalusia</category>
-        <category>Ajudes econòmiques</category>
-        <category>Infraestructures</category>
-        <author>Conselleria d'Educació</author>
+        <title>El abandono educativo cae en España a un histórico 12,8% gracias al tirón de las mujeres</title>
+        <description>La taxa d'abandonament educatiu primerenc a Espanya ha baixat al 12,8% el 2025, la xifra més baixa de la història. La millora es deu principalment al descens entre les dones (9,5%) mentre que els homes es mantenen en el 15,9%. La Formació Professional guanya 344.000 estudiants en sis anys i el País Basc lidera la reducció amb només un 3,6%.</description>
+        <link>https://elpais.com/educacion/2026-01-28/el-abandono-educativo-cae-en-espana-a-un-historico-128-gracias-al-tiron-de-las-mujeres.html</link>
+        <guid isPermaLink="true">https://elpais.com/educacion/2026-01-28/el-abandono-educativo-cae-en-espana-a-un-historico-128-gracias-al-tiron-de-las-mujeres.html</guid>
+        <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+        <category>Espanya</category>
+        <category>Abandonament educatiu</category>
+        <category>Formació Professional</category>
+        <category>Igualtat de gènere</category>
+        <author>El País</author>
     </item>
 </channel>
 </rss>
+
 
